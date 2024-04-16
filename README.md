@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TuCasaYa!
 
-## Getting Started
+TuCasaYa! es una aplicación web diseñada para simplificar la publicación y búsqueda de propiedades disponibles para alquilar en Magangué-Bolívar. Con TuCasaYa!, los propietarios pueden fácilmente listar sus propiedades, mientras que los buscadores disfrutan de la facilidad de encontrar la propiedad perfecta para sus necesidades en esta ubicación específica.
 
-First, run the development server:
+## Características principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Publicación de propiedades**: Los propietarios pueden crear fácilmente listados de sus propiedades en Magangué, Bolívar, proporcionando detalles como ubicación, tamaño, precio y características adicionales.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Búsqueda avanzada**: Los usuarios pueden realizar búsquedas específicas en Magangué, Bolívar, utilizando filtros como ubicación, tamaño, precio y características deseadas.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Interfaz intuitiva**: La aplicación cuenta con una interfaz fácil de usar tanto para propietarios como para buscadores en Magangué, Bolívar, lo que facilita la navegación y la utilización de todas las funciones.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Mapas interactivos**: Los buscadores pueden visualizar las propiedades en un mapa interactivo de Magangué, Bolívar, lo que les permite explorar fácilmente las opciones disponibles en áreas específicas.
 
-## Learn More
+## Tecnologías utilizadas
 
-To learn more about Next.js, take a look at the following resources:
+- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **Mapas**: API de mapas (por determinar)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ¿Cómo contribuir?
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Si estás interesado en contribuir al desarrollo de TuCasaYa!, ¡nos encantaría tener tu ayuda! Puedes contribuir de las siguientes maneras:
 
-## Deploy on Vercel
+- **Reportando problemas**: Si encuentras algún problema o error en Magangué, Bolívar, por favor repórtalo en nuestro repositorio de GitHub.
+- **Proponiendo mejoras**: Si tienes ideas para mejorar la aplicación en Magangué, Bolívar, siéntete libre de proponerlas en nuestro repositorio.
+- **Contribuyendo con código**: Si eres desarrollador, puedes contribuir directamente al código de la aplicación en Magangué, Bolívar. Consulta nuestras pautas de contribución en el repositorio para más información.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+¡Gracias por tu interés en TuCasaYa! Esperamos que esta aplicación ayude a simplificar la búsqueda y publicación de propiedades en Magangué-Bolívar.
